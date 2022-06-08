@@ -7,4 +7,7 @@ var ages =[23,34,45,35]
 
 var marriedMen =[false,true,true,false]
 
-friends
+
+"removes last elment, should read (steffie, bob, Jim, Pam)"
+friends.pop();
+console.log(friends);
