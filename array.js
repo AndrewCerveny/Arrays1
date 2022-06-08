@@ -3,8 +3,6 @@
 " Array part 2"
 var friends = ["steffie", "Bob", "Jim", "Pam", "Mike"];
 
-console.log(friends[3]);
+var ages =[23,34,45,35]
 
-console.log(friends[4]);
-
-console.log(friends[0]);
+var marriedMen =[false,true,true,false]
